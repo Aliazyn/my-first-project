@@ -1,4 +1,9 @@
 Hello Git.
 This is my first tracked file.
 
+Update 2
 I edited this file and will commit the change.
+
+Update 3
+Practising after opening Git Bash.
+
